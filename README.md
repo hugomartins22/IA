@@ -1,1 +1,2 @@
-# IA - Resolução de problemas - Algoritmos de procura
+# IA - Algoritmos de procura
+TP de Inteligência Artificial
